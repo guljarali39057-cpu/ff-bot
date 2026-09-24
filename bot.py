@@ -1,4 +1,3 @@
-AAFGEAdTD2RsOMxU49Au0UOQBLPmzoOswHg random
 import time
 import urllib.parse
 import json
