@@ -1,3 +1,4 @@
+import random
 import time
 import urllib.parse
 import json
@@ -6,7 +7,7 @@ import telebot
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton, ForceReply
 
 # Setup Configuration
-BOT_TOKEN = "8367812316:AAE1FcbeFbsuCJ6t0t-9zp8cVJVLU6UD5Ug"
+BOT_TOKEN = "8367812316:AAGqxpWPYkfqwxvacImiABuKMK_IO5LVHoU"
 ADMIN_ID = 8487604781
 ADMIN_USERNAME = "Gosjesg001"
 UPI_ID = "maxff001@axl"  # Nayi UPI ID update kar di gayi hai
@@ -404,3 +405,4 @@ def process_token(message):
 
 print("Bot active ho gaya hai...")
 bot.infinity_polling()
+    
