@@ -1,4 +1,4 @@
-import random
+AAFGEAdTD2RsOMxU49Au0UOQBLPmzoOswHg random
 import time
 import urllib.parse
 import json
@@ -7,7 +7,7 @@ import telebot
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton, ForceReply
 
 # Setup Configuration
-BOT_TOKEN = "8367812316:AAFGEAdTD2RsOMxU49Au0UOQBLPmzoOswHg"
+BOT_TOKEN = "8367812316:AAE1FcbeFbsuCJ6t0t-9zp8cVJVLU6UD5Ug"
 ADMIN_ID = 8487604781
 ADMIN_USERNAME = "Gosjesg001"
 UPI_ID = "maxff001@axl"  # Nayi UPI ID update kar di gayi hai
